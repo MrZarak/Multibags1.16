@@ -12,7 +12,7 @@ import zarak.multibags.backend.DataPlayerMB
 
 object References {
     const val ID = "multibags"
-    val TAB = object : ItemGroup("") {
+    val TAB = object : ItemGroup(ID) {
         @OnlyIn(Dist.CLIENT)
         override fun makeIcon(): ItemStack {
             return ItemStack(Blocks.BOOKSHELF)

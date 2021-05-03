@@ -3,7 +3,6 @@ package zarak.multibags.backend
 import net.minecraft.entity.player.ServerPlayerEntity
 import net.minecraft.item.ItemStack
 import net.minecraft.nbt.CompoundNBT
-import net.minecraft.util.NonNullList
 import net.minecraftforge.fml.network.PacketDistributor
 import net.minecraftforge.items.ItemStackHandler
 import zarak.multibags.References
