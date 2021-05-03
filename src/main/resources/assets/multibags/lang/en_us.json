@@ -1,0 +1,19 @@
+{
+  "itemGroup.multibags": "§6MultiBags",
+  "item.multibags.bag_first": "Travel Bag I",
+  "item.multibags.bag_second": "Travel Bag II",
+  "item.multibags.bag_third": "Travel Bag III",
+  "item.multibags.bag_fourth": "Travel Bag IV",
+  "item.multibags.bag_fifth": "Travel Bag V",
+  "item.multibags.bag_ender": "Ender Travel Bag",
+  "item.multibags.first_fabric": "Fabric I",
+  "item.multibags.second_fabric": "Fabric II",
+  "item.multibags.third_fabric": "Fabric III",
+  "item.multibags.fourth_fabric": "Fabric IV",
+  "item.multibags.fifth_fabric": "Fabric V",
+  "item.multibags.speed_update": "Speed Upgrade",
+  "item.multibags.power_update": "Power Upgrade",
+  "item.multibags.assort_update": "Sort Upgrade",
+  "tile.multibags.bag_upgrade": "Bag Workbench",
+  "key_open_main_gui": "Open Bag GUI"
+}
